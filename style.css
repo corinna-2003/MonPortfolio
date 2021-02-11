@@ -10,8 +10,8 @@ body{
 nav{
    
     height: 55px;
-    background:  deeppink;
-    padding: 0px;   
+    background: rgb(151, 24, 119);
+    padding: 0px;
     margin: 0px;
 } 
 .name
@@ -43,88 +43,17 @@ nav ul li
 }
 nav ul li a
 {
-   /* color: blueviolet;*/
     position: center;
     padding: 5px 0;
-    color: white;
+    color: red;
     font-size: 18px;
     text-decoration: none;
     margin: 0%;
     padding: 0%;
 }
-nav ul li a:hover
-{
-    color: blueviolet;
-}
-.web
-{
-    display: flex;
-    justify-content: end;
-    align-items: flex-end;
-    color: rgb(184, 74, 93);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin-top: 300px;
-    margin-right: 400px;
-    
-}
-
 section
 {
-    
-    display: flex;
-    margin-right: 200px;
-    background-size: 150px;
-    margin-left: 150px;
-    text-decoration: none;
-
-}
-.ok
-{
-    float: right;
-}
-
-
-.button
-{
-    text-decoration: none;
-    background-color: white(190, 55, 89);
-    /*margin-left: 100px;*/
-    margin-right: 500px;
-    /*opacity: 0.8;*/
-    border: 3px solid deeppink;
-    color:salmon(190, 89, 89);
-    
-}
-.button a
-{
-    text-decoration: none;
-    /*color: rgb(206, 70, 93);*/
-    border: none;
-    color:deeppink;
-}
-button a:hover
-{
-    color: slateblue;
-}
-
-
-.presentation
-{
-    color:deeppink;
-}
-
-.photo
-{
     position: absolute;
-    top: 60px;
-    right: 200px;
-
+    color: darkred;
+    font-family: cursive;
 }
-
-
-
-
-
-
-
-
