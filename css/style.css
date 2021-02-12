@@ -1,0 +1,133 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: poppins;
+   
+}
+nav{
+   
+    height: 55px;
+    background:  deeppink;
+    padding: 0px;   
+    margin: 0px;
+} 
+.name
+{
+    position: absolute;
+    width: 50px;
+    top: 1.5%;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin-left: 7%;
+}
+nav ul
+{
+    float: right;
+    margin-right: 15px;
+    margin:0 100px ;
+    font-family: monospace;
+color: white;
+font-size: 25px;
+line-height: 130%;
+}
+nav ul li
+
+{
+    display: inline-block;
+    line-height: 50px;
+    margin: 0 15px;
+}
+nav ul li a
+{
+   /* color: blueviolet;*/
+    position: center;
+    padding: 5px 0;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0%;
+    padding: 0%;
+}
+nav ul li a:hover
+{
+    color: blueviolet;
+}
+.web
+{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    color: rgb(184, 74, 93);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 300px;
+    margin-right: 400px;
+    
+}
+
+section
+{
+    
+    display: flex;
+    margin-right: 200px;
+    background-size: 150px;
+    margin-left: 150px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+}
+.ok
+{
+    float: right;
+}
+
+
+.button
+{
+    text-decoration: none;
+    background-color: white(190, 55, 89);
+    /*margin-left: 100px;*/
+    margin-right: 600px;
+    /*opacity: 0.8;*/
+    border: 2px solid deeppink;
+    color:salmon(190, 89, 89);
+    margin-top: 5px;
+    
+}
+.button a
+{
+    text-decoration: none;
+    /*color: rgb(206, 70, 93);*/
+    border: none;
+    color:deeppink;
+}
+button a:hover
+{
+    color: slateblue;
+}
+
+
+.presentation
+{
+    color:deeppink;
+    margin-top: 7px;
+}
+
+.photo
+{
+    position: absolute;
+    top: 60px;
+    right: 200px;
+
+}
+
+
+
+
+
+
+
+
